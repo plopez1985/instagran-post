@@ -1,0 +1,45 @@
+.body {
+    background-color: black;
+}
+
+.postcard {
+    background-color: white;
+    margin: 150px;
+    width: 450px;
+    height: 583px;
+}
+
+.patyheader{
+    display: flex !important;
+    padding: 9px !important;
+}
+.logo {
+    font-size: 25px;
+    margin-top: 4px;
+}
+.letras{
+    margin-left: 10px;
+    margin-right: 330px;
+    font-size: 15px;
+}
+.puntos{
+    font-size: 25px;
+    margin-top: 8px;
+}
+.patyfooter {
+    font-size: 15px;
+    margin: 10px;
+}
+.corazon {
+    font-size: 25px;
+}
+.comen{
+    font-size: 25px;
+}
+.flecha{
+    font-size: 25px;
+    margin-right: 325px;
+}
+.guardar{
+    font-size: 25px;
+}
